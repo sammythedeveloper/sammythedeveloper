@@ -1,4 +1,4 @@
-<img src="cityvibe.JPG" alt="GitHub Banner" width="100%" />
+<img src="cityvibe.jpg" alt="GitHub Banner" width="100%" />
 
 Hello world! 👋 My name is Sammy
 ======================
