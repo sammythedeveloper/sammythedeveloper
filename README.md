@@ -10,7 +10,7 @@ Currently working on my own own projects and learning new technologies with a ke
 * ✉️  You can contact me at [samsondev3@gmail.com](mailto:samsondev3@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
-<img src="../IMG_7408.JPG" alt="GitHub Banner" width="100%" />
+<img src="./asset/IMG_7408.JPG" alt="GitHub Banner" width="100%" />
 
 
 # 💻 Tech Stack:
