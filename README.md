@@ -1,6 +1,6 @@
 
 Hello world! 👋 My name is Sammy
-<hr>
+___
 
 Full stack developer 
 
