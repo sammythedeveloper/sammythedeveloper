@@ -10,7 +10,7 @@ Currently working on my own own projects and learning new technologies with a ke
 * ✉️  You can contact me at [samsondev3@gmail.com](mailto:samsondev3@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="" alt="GitHub Banner" width="100%" />
 
 
 # 💻 Tech Stack:
@@ -19,11 +19,6 @@ Currently working on my own own projects and learning new technologies with a ke
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 
 
