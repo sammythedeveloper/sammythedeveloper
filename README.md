@@ -1,7 +1,6 @@
-<img src="cityvibe.jpg" alt="GitHub Banner" width="100%" />
 
 Hello world! 👋 My name is Sammy
-======================
+<hr>
 
 Full stack developer 
 
