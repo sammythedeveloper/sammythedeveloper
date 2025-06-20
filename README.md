@@ -2,13 +2,13 @@
 Hello world! 👋 My name is Sammy
 ---
 
-Full stack developer 
+Full stack developer / software engineer  
 
-Currently working on my own own projects and learning new technologies with a keen focus in web application development and web layout design, with a strong work ethic and innate ability to adapt in ever-changing and challenging environments.
+Currently working on my own own projects and learning new technologies and AI enthusiasts with a keen focus in web application development and web layout design, with a strong work ethic and innate ability to adapt in ever-changing and challenging environments.
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [samsondev3@gmail.com](mailto:samsondev3@gmail.com)
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects 
 
 
 
