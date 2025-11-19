@@ -9,6 +9,7 @@ Currently working on my own own projects and learning new technologies and AI en
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [samsondev3@gmail.com](mailto:samsondev3@gmail.com)
 * 🤝  I'm open to collaborating on Projects 
+* 🕸️  Checkout my Portfolio site here https://playful-reassurance-003281.framer.app/
 
 
 
