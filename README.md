@@ -1,5 +1,5 @@
 
-Hello world! 👋 My name is Samson
+Hello world! 👋
 ---
 
 Full stack developer 
