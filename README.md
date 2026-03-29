@@ -7,7 +7,7 @@ Full stack developer
 Currently working on my own own projects and learning new technologies and AI enthusiast with a keen focus in web application development and web layout design.
 
 * 🌍  I'm based in Toronto
-* ✉️  You can contact me at [samsondev3@gmail.com](mailto:samsondev3@gmail.com)
+* ✉️  You can contact me at -------
 * 🤝  I'm open to collaborating on Projects 
 * 🕸️  Checkout my Portfolio site here https://playful-reassurance-003281.framer.app/
 
