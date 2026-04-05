@@ -1,10 +1,12 @@
 
-Hello world! 👋
+keeping it simple😉
+          
 ---
 
 Full stack developer 
 
-Currently working on my own own projects and learning new technologies and AI enthusiast with a keen focus in web application development and web layout design.
+Currently working on my own own projects and learning new technologies and AI enthusiast with a keen focus in application development and layout design.
+     
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at -------
