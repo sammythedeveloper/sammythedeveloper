@@ -5,11 +5,11 @@ keeping it simple😉
 
 Full stack developer 
 
-Currently working on my own own projects and learning new technologies and AI enthusiast with a keen focus in application development and layout design.
+I am a Full Stack Developer, AI enthusiast, and someone who enjoys deploying web applications on AWS Cloud. I am currently working on my own projects and learning new technologies, with a strong focus on application development and user interface design.
      
 
 * 🌍  I'm based in Toronto
-* ✉️  You can contact me at -------
+* ✉️  You can contact me at samsondev3@gmail.com
 * 🤝  I'm open to collaborating on Projects 
 * 🕸️  Checkout my Portfolio site here https://justsam.framer.website/
 
