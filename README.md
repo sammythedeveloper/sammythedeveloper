@@ -11,7 +11,7 @@ I am a Full Stack Developer, AI enthusiast, and someone who enjoys deploying web
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at samsondev3@gmail.com
 * 🤝  I'm open to collaborating on Projects 
-* 🕸️  Checkout my Portfolio site here [(https://sam21.framer.ai)/]
+* 🕸️  Checkout my Portfolio site here https://sam21.framer.ai/
 
 
 
