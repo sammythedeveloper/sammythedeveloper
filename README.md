@@ -1,63 +1,11 @@
 <div align="center">
 
 <!-- ===== HERO SVG ===== -->
-<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
 
-  <defs>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00FF88"/>
-      <stop offset="50%" stop-color="#00D4FF"/>
-      <stop offset="100%" stop-color="#7C4DFF"/>
-    </linearGradient>
-  </defs>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=%24+whoami+%3E+SamtheDev;I+build+things+that+live+on+the+web;Full-stack+developer+who+loves+clean+%26+meaningful+code;he%2Fhim+%7C+open+to+collabs+%F0%9F%9F%A2+%F0%9F%98%8E+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-  <!-- background -->
-  <rect width="1200" height="260" fill="#05060a"/>
-
-  <!-- subtle grid -->
-  <g stroke="#111827" stroke-width="1" opacity="0.5">
-    <path d="M0 65 H1200"/>
-    <path d="M0 130 H1200"/>
-    <path d="M0 195 H1200"/>
-    <path d="M300 0 V260"/>
-    <path d="M600 0 V260"/>
-    <path d="M900 0 V260"/>
-  </g>
-
-  <!-- glow circle -->
-  <circle cx="600" cy="130" r="85"
-          fill="none"
-          stroke="url(#neon)"
-          stroke-width="2"
-          opacity="0.8"/>
-
-  <!-- name -->
-  <text x="50%" y="48%" text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="52"
-        font-weight="700"
-        fill="url(#neon)">
-    SAMSON D.
-  </text>
-
-  <!-- subtitle -->
-  <text x="50%" y="62%" text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="18"
-        fill="#9CA3AF"
-        letter-spacing="2">
-    FULL STACK DEVELOPER • AI ENTHUSIAST • AWS BUILDER
-  </text>
-
-  <!-- tagline -->
-  <text x="50%" y="74%" text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="14"
-        fill="#4B5563">
-    building systems that feel alive on the web
-  </text>
-
-</svg>
+</div>
 
 </div>
 
