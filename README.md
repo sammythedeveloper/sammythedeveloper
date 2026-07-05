@@ -1,6 +1,8 @@
 <div align="center">
 
 <!-- ===== HERO SVG ===== -->
+<div align="center">
+```
  ███████╗ █████╗ ███╗   ███╗███████╗ ██████╗ ███╗   ██╗
  ██╔════╝██╔══██╗████╗ ████║██╔════╝██╔═══██╗████╗  ██║
  ███████╗███████║██╔████╔██║███████╗██║   ██║██╔██╗ ██║
@@ -8,9 +10,8 @@
  ███████║██║  ██║██║ ╚═╝ ██║███████║╚██████╔╝██║ ╚████║
  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
                     Samson D.
-
-<div align="center">
-
+```
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=%24+%3E+SamtheDev;I+build+things+that+live+on+the+web;Full-stack+developer+who+loves+clean+%26+meaningful+code;he%2Fhim+%7C+open+to+collabs+%F0%9F%9F%A2+%F0%9F%98%8E+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
