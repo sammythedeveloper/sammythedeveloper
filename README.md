@@ -11,34 +11,38 @@
     </linearGradient>
   </defs>
 
+  <!-- background -->
   <rect width="1200" height="260" fill="#05060a"/>
 
-  <!-- pulse ring -->
-  <circle cx="600" cy="130" r="90"
+  <!-- subtle grid -->
+  <g stroke="#111827" stroke-width="1" opacity="0.5">
+    <path d="M0 65 H1200"/>
+    <path d="M0 130 H1200"/>
+    <path d="M0 195 H1200"/>
+    <path d="M300 0 V260"/>
+    <path d="M600 0 V260"/>
+    <path d="M900 0 V260"/>
+  </g>
+
+  <!-- glow circle -->
+  <circle cx="600" cy="130" r="85"
           fill="none"
           stroke="url(#neon)"
           stroke-width="2"
-          opacity="0.6">
-    <animate attributeName="r" values="85;95;85" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="4s" repeatCount="indefinite"/>
-  </circle>
+          opacity="0.8"/>
 
   <!-- name -->
   <text x="50%" y="48%" text-anchor="middle"
-        font-family="JetBrains Mono, monospace"
-        font-size="54"
+        font-family="Arial, sans-serif"
+        font-size="52"
         font-weight="700"
         fill="url(#neon)">
     SAMSON D.
-    <animate attributeName="opacity"
-             values="0.8;1;0.8"
-             dur="3s"
-             repeatCount="indefinite"/>
   </text>
 
   <!-- subtitle -->
-  <text x="50%" y="60%" text-anchor="middle"
-        font-family="JetBrains Mono, monospace"
+  <text x="50%" y="62%" text-anchor="middle"
+        font-family="Arial, sans-serif"
         font-size="18"
         fill="#9CA3AF"
         letter-spacing="2">
@@ -46,8 +50,8 @@
   </text>
 
   <!-- tagline -->
-  <text x="50%" y="72%" text-anchor="middle"
-        font-family="JetBrains Mono, monospace"
+  <text x="50%" y="74%" text-anchor="middle"
+        font-family="Arial, sans-serif"
         font-size="14"
         fill="#4B5563">
     building systems that feel alive on the web
