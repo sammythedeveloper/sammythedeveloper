@@ -15,19 +15,36 @@
 
 ---
 
-# 👋 About Me
+## 👤 About Me
 
-I’m a Full Stack Developer and AI enthusiast who enjoys building and deploying web applications on AWS.  
-I’m currently focused on working on my own projects while continuously learning new technologies.  
+I’m a **Full Stack Developer** and **AI Enthusiast** dedicated to building, deploying, and scaling modern web applications on AWS. I bridge the gap between robust backend architecture and exceptional user experiences. 
 
-My main interest lies in creating clean, functional applications with strong attention to user interface and user experience design.
+Currently, I'm channeling my energy into building independent projects and pushing the boundaries of my technical stack.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20Deployment-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-UI%20%2F%20UX%20Centric-success?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-- 🌍 Based in Toronto  
-- ✉️ Contact: samsondev3@gmail.com  
-- 🤝 Open to collaborating on projects  
-- 🕸️ Portfolio: https://sam21.framer.ai/
+### 🌐 Quick Overview
+
+*   📍 **Based in:** Toronto, Canada 🇨🇦
+*   🚀 **Current Focus:** Building production-ready applications & learning daily.
+*   🤝 **Collaboration:** Open to exciting open-source or freelance projects.
+
+### 📬 Let's Connect
+
+<a href="https://sam21.framer.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:samsondev3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+---
 
 ---
 
