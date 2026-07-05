@@ -1,6 +1,109 @@
 
 keeping it simple😉
-          
+          <svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88"/>
+      <stop offset="50%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#7C4DFF"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur">
+        <animate attributeName="stdDeviation" values="3;6;3" dur="3s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#05060a"/>
+
+  <!-- Animated grid -->
+  <g stroke="#111827" stroke-width="1" opacity="0.6">
+    <g>
+      <animateTransform attributeName="transform"
+                        type="translate"
+                        from="0 0"
+                        to="0 20"
+                        dur="6s"
+                        repeatCount="indefinite"/>
+      <path d="M0 100 H1200"/>
+      <path d="M0 200 H1200"/>
+      <path d="M0 300 H1200"/>
+      <path d="M0 400 H1200"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform"
+                        type="translate"
+                        from="0 0"
+                        to="20 0"
+                        dur="8s"
+                        repeatCount="indefinite"/>
+      <path d="M200 0 V500"/>
+      <path d="M400 0 V500"/>
+      <path d="M600 0 V500"/>
+      <path d="M800 0 V500"/>
+      <path d="M1000 0 V500"/>
+    </g>
+  </g>
+
+  <!-- Rotating glow ring -->
+  <circle cx="600" cy="250" r="180"
+          fill="none"
+          stroke="url(#neon)"
+          stroke-width="2"
+          opacity="0.7"
+          filter="url(#glow)">
+    <animateTransform attributeName="transform"
+                      type="rotate"
+                      from="0 600 250"
+                      to="360 600 250"
+                      dur="20s"
+                      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pulsing title -->
+  <text x="50%" y="48%" text-anchor="middle"
+        font-family="JetBrains Mono, monospace"
+        font-size="72"
+        font-weight="700"
+        fill="url(#neon)"
+        filter="url(#glow)">
+    SAMSON D.
+    <animate attributeName="opacity"
+             values="0.7;1;0.7"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="58%" text-anchor="middle"
+        font-family="JetBrains Mono, monospace"
+        font-size="20"
+        fill="#9CA3AF"
+        letter-spacing="2">
+    FULL STACK DEVELOPER • AI ENTHUSIAST • AWS BUILDER
+  </text>
+
+  <!-- Tagline floating -->
+  <text x="50%" y="66%" text-anchor="middle"
+        font-family="JetBrains Mono, monospace"
+        font-size="16"
+        fill="#4B5563">
+    building systems that feel alive on the web
+    <animate attributeName="y"
+             values="66%;65.5%;66%"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </text>
+
+</svg>
 ---
 <div align="center">
 
