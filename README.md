@@ -2,10 +2,13 @@
 keeping it simple😉
           
 ---
+<div align="center">
 
-Full stack developer 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami+%3E+SamtheDev;Full+stack+web+developer;Building+clean+web+application+and+modern+full+stack+software;he%2Fhim+%7C+open+to+collabs+%F0%9F%9F%A2+%F0%9F%98%8E+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-I am a Full Stack Developer, AI enthusiast, and someone who enjoys deploying web applications on AWS Cloud. I am currently working on my own projects and learning new technologies, with a strong focus on application development and user interface design.
+</div>
+
+I’m a Full Stack Developer and AI enthusiast who enjoys building and deploying web applications on AWS. I’m currently focused on working on my own projects while continuously learning new technologies. My main interest lies in creating clean, functional applications with strong attention to user interface and user experience design.
      
 
 * 🌍  I'm based in Toronto
