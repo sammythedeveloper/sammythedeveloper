@@ -2,30 +2,13 @@
 
 <!-- ===== HERO SVG ===== -->
 <div align="center">
-<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+# ⚡ Samson D.
 
-  <defs>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00FF88"/>
-      <stop offset="50%" stop-color="#00D4FF"/>
-      <stop offset="100%" stop-color="#7C4DFF"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="200" fill="#05060a"/>
-
-  <text x="50%" y="55%" text-anchor="middle"
-        font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
-        font-size="72"
-        font-weight="800"
-        letter-spacing="2"
-        fill="url(#textGrad)">
-    Samson D.
-  </text>
-
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=%24+%3E+SamtheDev;I+build+things+that+live+on+the+web;Full-stack+developer+who+loves+clean+%26+meaningful+code;he%2Fhim+%7C+open+to+collabs+%F0%9F%9F%A2+%F0%9F%98%8E+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=%24+%3E+SamtheDev;I+build+things+that+live+on+the+web;Full+stack+developer+who+loves+clean+%26+meaningful+code;he%2Fhim+%7C+open+to+collabs+%F0%9F%9F%A2+%F0%9F%98%8E+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
