@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- ===== HERO SVG ===== -->
-<div align="center">
-# ⚡ Samson D.
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=90&lines=SAMSON+D." alt="Samson D." />
 </p>
+<div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=%24+%3E+SamtheDev;I+build+things+that+live+on+the+web;Full+stack+developer+who+loves+clean+%26+meaningful+code;he%2Fhim+%7C+open+to+collabs+%F0%9F%9F%A2+%F0%9F%98%8E+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
