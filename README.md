@@ -21,7 +21,7 @@
 
 Currently, I'm channeling my energy into building independent projects and pushing the boundaries of my technical stack.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20Deployment-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-UI%20%2F%20UX%20Centric-success?style=flat-square&logo=figma&logoColor=white" />
