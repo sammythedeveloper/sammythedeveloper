@@ -17,7 +17,7 @@
 
 ## 👤 About Me
 
-I’m a **Full Stack Developer** and **AI Enthusiast** dedicated to building, deploying, and scaling modern web applications on AWS. I bridge the gap between robust backend architecture and exceptional user experiences. 
+I'm a Full-Stack Web Developer with experience building modern, user-focused web applications. I'm passionate about creating practical and scalable solutions while continuously expanding my skills in AI, Cloud Computing, and other emerging technologies. I enjoy combining technology and problem-solving to build smarter, more efficient applications that deliver meaningful value to users and businesses.
 
 Currently, I'm channeling my energy into building independent projects and pushing the boundaries of my technical stack.
 
