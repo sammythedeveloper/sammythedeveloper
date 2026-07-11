@@ -15,9 +15,9 @@
 
 ---
 
-## 👤 About Me
+<p align="center">## 👤 About Me</p>
 
-I'm a Full-Stack Web Developer with experience building modern, user-focused web applications. I'm passionate about creating practical and scalable solutions while continuously expanding my skills in AI, Cloud Computing, and other emerging technologies. I enjoy combining technology and problem-solving to build smarter, more efficient applications that deliver meaningful value to users and businesses.
+<p align="center">I'm a Full-Stack Web Developer with experience building modern, user-focused web applications. I'm passionate about creating practical and scalable solutions while continuously expanding my skills in AI, Cloud Computing, and other emerging technologies. I enjoy combining technology and problem-solving to build smarter, more efficient applications that deliver meaningful value to users and businesses.</p>
 
 Currently, I'm channeling my energy into building independent projects and pushing the boundaries of my technical stack.
 
