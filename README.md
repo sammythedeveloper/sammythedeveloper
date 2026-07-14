@@ -3,7 +3,7 @@
 <!-- ===== HERO SVG ===== -->
 <!-- Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&duration=1&pause=1000&color=E5C07B&center=true&vCenter=true&width=700&height=90&lines=SammytheDeveloper" alt="SammytheDeveloper" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat+ExtraBold&size=50&duration=1&pause=1000&color=FFD166&center=true&vCenter=true&width=750&height=90&lines=SAMMYTHEDEVELOPER" alt="SAMMYTHEDEVELOPER" />
 </p>
 
 <!-- Typing Subtitle -->
