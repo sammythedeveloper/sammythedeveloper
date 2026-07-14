@@ -37,8 +37,8 @@ Currently, I'm channeling my energy into building independent projects and pushi
 
 ### 📬 Let's Connect
 
-<a href="https://sam21.framer.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
+<a href="https://samsondevportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=framer&logoColor=FFD700" alt="Portfolio" />
 </a>
 <a href="mailto:samsondev3@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
