@@ -2,20 +2,17 @@
 
 # Making Software That Matters.
 
-### Full-Stack Developer • Builder • Problem Solver
-
-<br>
-
-<a href="https://samsondevportfolio.vercel.app/">
+##### Full-Stack Developer • Builder • Problem Solver
+<a href="https://samsondevportfolio.vercel.app/"> 🌐 Portfolio
 </a>
-<a href="mailto:[samsondev3@gmail.com](mailto:samsondev3@gmail.com)">
+<a href="mailto:[samsondev3@gmail.com](mailto:samsondev3@gmail.com)">📧 Email
 </a>
 
 </div>
 
 ---
 
-## 🌎 Quick Facts
+### Quick Facts
 
 🧑‍💻 A little about me
 
@@ -28,49 +25,40 @@
 | 🚀 **Currently building** | Full-stack projects |
 | ☁️ **Exploring** | AWS, Cloud Architecture & AI integrations |
 | 🎨 **Interested in** | Scalable applications & developer experience |
-| 🤝 **Open to** | Software Engineering, Open-source, collaborations & interesting projects |
+| 🤝 **Open to** | Software Engineering role, Open-source contributions and collab |
 
 ---
 
 ## ⚡ What I work with
 
 ### 🎨 Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,csharp" />
-</p>
-
-### 🗄️ Databases & Backend Services
-
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" /> </p>
-
-### ☁️ Cloud & Infrastructure
-
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,railway,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
 </p>
 
-**Platforms I work with:**
-
-`AWS` • `Railway` • `Aiven` • `Vercel` • `GitHub Pages`
-
-**AWS services I work with:**
-
-`EC2` • `S3` • `Lambda`
-
-### 🛠️ Tools & Other Technologies
-
+### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,powershell,figma,notion,photoshop" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
 </p>
 
-**Also:** `JWT` • `Stripe` • `OpenAI` • `Cypress` • `Framer`
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,github" />
+</p>
+
+`Railway` • `Aiven` • `GitHub Pages` • `EC2` • `S3` • `Lambda`
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,powershell,figma,notion,photoshop" />
+</p>
+
+`JWT` • `Stripe` • `OpenAI` • `Cypress` • `Framer`
 
 ---
 
