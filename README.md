@@ -1,63 +1,159 @@
 <div align="center">
 
-<!-- ===== HERO SVG ===== -->
-<!-- Typing Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=50&lines=I+build+things+that+live+on+the+web;Full+stack+developer+who+loves+clean+%26+meaningful+code;he%2Fhim+%7C+open+to+collabs+%F0%9F%9F%A2+%F0%9F%98%8E+%F0%9F%8E%AF" alt="Typing SVG" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
+
+# Hey there! 👋 I'm Samson
+
+### Full-Stack Developer • Builder • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=750&height=50&lines=I+build+things+that+live+on+the+web;Full-Stack+Developer+%7C+Cloud+%7C+AI;Turning+ideas+into+production-ready+applications;Clean+code.+Useful+products.+Continuous+learning." alt="Typing SVG" />
+
+<br>
+
+<a href="https://samsondevportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-00FF88?style=for-the-badge&labelColor=151515" alt="Portfolio">
+</a>
+<a href="mailto:[samsondev3@gmail.com](mailto:samsondev3@gmail.com)">
+  <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge&labelColor=151515" alt="Email">
+</a>
 
 </div>
 
 ---
 
-<h2 align="center">About Me</h3>
+## 🧑‍💻 A little about me
 
-<h5 align="center">I'm a Full-Stack Web Developer with experience building modern, user-focused web applications. I'm passionate about creating practical and scalable solutions while continuously expanding my skills in AI, Cloud Computing, and other emerging technologies. I enjoy combining technology and problem-solving to build smarter, more efficient applications that deliver meaningful value to users and businesses.</h5>
+I'm a **Full-Stack Web Developer** who enjoys turning ideas into practical, scalable, and user-focused applications.
 
-Currently, I'm channeling my energy into building independent projects and pushing the boundaries of my technical stack.
+I like working across the stack — from designing interfaces and building APIs to working with databases, cloud infrastructure, authentication, payments, and deployment.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20Deployment-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-UI%20%2F%20UX%20Centric-success?style=flat-square&logo=figma&logoColor=white" />
+I'm especially interested in:
+
+* 🚀 Building production-ready  applications
+* ☁️ Cloud deployment and scalable backend systems
+* 🤖 Exploring AI integrations in modern web apps
+* 🎨 Creating clean and intuitive UI/UX
+* 🧠 Learning better architecture and engineering practices
+* 🔧 Building independent projects and experimenting with new technologies
+
+> **I enjoy building things that are useful, not demos or just things that look impressive.**
+
+---
+
+## 🌎 Quick Facts
+
+| | |
+|---|---|
+| 📍 **Based in** | Toronto, Canada 🇨🇦 |
+| 💻 **Role** | Full-Stack Web Developer |
+| 🚀 **Currently building** | Full-stack projects |
+| ☁️ **Exploring** | AWS, Cloud Architecture & AI integrations |
+| 🎨 **Interested in** | Scalable applications & developer experience |
+| 🤝 **Open to** | Software Engineering, Open-source, collaborations & interesting projects |
+
+---
+
+## ⚡ What I work with
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
+### ⚙️ Backend
+
+<p>
+<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express,csharp)[,csharp](https://skillicons.dev/icons?i=nodejs,express,csharp)" /> </p>
+
+### 🗄️ Databases & Backend Services
+
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" /> </p>
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+**AWS services I work with:**
+
+`EC2` • `S3` • `Lambda`
+
+### 🛠️ Tools & Other Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,powershell,figma,notion,photoshop" />
+</p>
+
+**Also:** `JWT` • `Stripe` • `OpenAI` • `Cypress` • `Framer`
+
 ---
 
-### 🌐 Quick Overview
+## 🚀 Currently
 
-*   📍 **Based in:** Toronto, Canada 🇨🇦
-*   🚀 **Current Focus:** Building production-ready applications & learning daily.
-*   🤝 **Collaboration:** Open to exciting open-source or freelance projects.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🔨 Building       Full-stack applications                   │
+│                                                              │
+│  🧠 Learning       Advanced backend architecture             │
+│                                                              │
+│  🤖 Exploring      AI integrations for web applications      │
+│                                                              │
+│  🎨 Improving      UI/UX and product design                  │
+│                                                              │
+│  ☁️ Deploying      Applications on AWS                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-### 📬 Let's Connect
+---
 
-<a href="https://samsondevportfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=framer&logoColor=FFD700" alt="Portfolio" />
+## 🧩 My development philosophy
+
+```text
+Build → Break → Learn → Improve → Ship → Repeat
+```
+
+I believe the best way to improve as a developer is to **build real things**, encounter real problems, and keep improving the solution.
+
+I care about writing code that is:
+
+* Clean
+* Maintainable
+* Practical
+* Scalable
+* Easy for other developers to understand
+
+---
+
+## 🤝 Let's build something
+
+Have an interesting idea, project, or collaboration in mind?
+
+I'm always interested in meeting people who are building cool things.
+
+<div align="center">
+
+<a href="https://samsondevportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-00FF88?style=for-the-badge&labelColor=151515" alt="Portfolio">
 </a>
-<a href="mailto:samsondev3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<a href="mailto:[samsondev3@gmail.com](mailto:samsondev3@gmail.com)">
+<img src="https://img.shields.io/badge/📩_Email-EA4335?style=for-the-badge&labelColor=151515" alt="Email">
 </a>
 
----
+</div>
 
 ---
 
-# 💻 Tech Stack
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-%236464FF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
----
+### ⭐ Thanks for stopping by!
 
-# 📌 Currently
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100">
 
-- Building full-stack SaaS projects  
-- Learning advanced backend architecture  
-- Exploring AI integrations in web apps  
-- Improving UI/UX design skills  
+**Code. Create. Learn. Repeat. 🚀**
 
----
-
-⭐ *Thanks for stopping by!*
+</div>
