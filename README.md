@@ -3,10 +3,7 @@
 # Making Software That Matters.
 
 ##### Full-Stack Developer • Builder • Problem Solver
-<a href="https://samsondevportfolio.vercel.app/"> 🌐 Portfolio
-</a>
-<a href="mailto:[samsondev3@gmail.com](mailto:samsondev3@gmail.com)">📧 Email
-</a>
+<a href="https://samsondevportfolio.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-00FF88?style=for-the-badge&labelColor=151515" alt="Portfolio"> </a> <a href="mailto:samsondev3@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge&labelColor=151515" alt="Email"> </a>
 
 </div>
 
