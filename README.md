@@ -47,7 +47,7 @@
 
 ### ☁️ Cloud & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,github" />
 </p>
 
 `Railway` • `Aiven` • `GitHub Pages` • `EC2` • `S3` • `Lambda`
